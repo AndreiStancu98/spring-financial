@@ -86,17 +86,16 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+This is a showcase project. Online banking is an electronic payment system that enables the customer of a bank or other financial institution to conduct a range of financial transactions through the institution’s website. There are two types of accounts, custommer and employee. Employees can add new custommers , open accounts , issue cards, close accounts. Custommers can see information about themselves, their banking accounts like balance, currency , their cards and can send and receive money to and from other bank users.
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Spring](https://spring.io/)
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [Postgresql](https://www.postgresql.org/)
+* [React](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Maven](https://maven.apache.org/)
 
 
 
@@ -107,22 +106,28 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+* Postgresql
+
 * npm
   ```sh
   npm install npm@latest -g
   ```
 
+
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AndreiStancu98/spring-financial
+   git clone https://github.com/DraganicaCiprian/spring-financial-final.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
+   
+3. Create an empty psql database
+
+4. Set database name, user and password in backend/src/main/resources/application.properties 
 
 
 
