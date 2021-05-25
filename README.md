@@ -190,7 +190,7 @@ Project Link: [https://github.com/AndreiStancu98/spring-financial](https://githu
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/AndreiStancu98/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/AndreiStancu98/spring-financial/graphs/contributors
+[contributors-url]: http://github.com/AndreiStancu98/spring-financial/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AndreiStancu98/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/AndreiStancu98/spring-financial/network/members
 [stars-shield]: https://img.shields.io/github/stars/AndreiStancu98/repo.svg?style=for-the-badge
