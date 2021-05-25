@@ -146,7 +146,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/AndreiStancu98/spring-financial](https://github.com/AndreiStancu98/spring-financial)
 
