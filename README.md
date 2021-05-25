@@ -31,7 +31,7 @@
     <img src="/spring-financial-frontend-v1-master/src/images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Spring Financial</h3>
+<!--   <h3 align="center">Spring Financial</h3> -->
 
   <p align="center">
     An Online Banking application for a fictional bank called Spring Financial
