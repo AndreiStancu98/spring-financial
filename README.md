@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AndreiStancu98/spring-financial">
-    <img src="/spring-financial-frontend-v1-master/src/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/spring-financial-frontend-v1-master/src/images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Spring Financial</h3>
