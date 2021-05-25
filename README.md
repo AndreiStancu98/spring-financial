@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot](https://media3.giphy.com/media/fJXBnCIBMd9Cle8VUB/giphy.gif?cid=790b761136b46fe8beab86b5da613c6ff8d08c99a340a78c&rid=giphy.gif&ct=g)
 This is a showcase project. Online banking is an electronic payment system that enables the customer of a bank or other financial institution to conduct a range of financial transactions through the institution’s website. There are two types of accounts, custommer and employee. Employees can add new custommers , open accounts , issue cards, close accounts. Custommers can see information about themselves, their banking accounts like balance, currency , their cards and can send and receive money to and from other bank users.
 
 ### Built With
