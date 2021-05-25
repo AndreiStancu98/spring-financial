@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DraganicaCiprian/spring-financial-final.git
+   git clone https://github.com/AndreiStancu98/spring-financial.git
    ```
 2. Install NPM packages
    ```sh
